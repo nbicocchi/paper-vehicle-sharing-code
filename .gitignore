@@ -1,0 +1,14 @@
+# Dataset e dati scaricati
+dataset/
+datasets/
+code/dati_esterni/
+
+# Ambienti virtuali Python (in qualsiasi cartella)
+.venv/
+venv/
+env/
+.env/
+
+# Cache e bytecode Python
+__pycache__/
+*.py[cod]
